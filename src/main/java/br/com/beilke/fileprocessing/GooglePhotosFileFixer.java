@@ -9,7 +9,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
@@ -19,44 +18,45 @@ import java.util.stream.Stream;
 
 public class GooglePhotosFileFixer {
 
-    static final Logger logger = Logger.getLogger(GooglePhotosFileFixer.class);
-    //private static final String PHOTOS_DIR = "E:\\Takeout\\3";
-    private static final String PHOTOS_DIR = "C:\\Users\\febeil\\Downloads\\collages\\Takeout\\Google Photos\\Collage";
-    private static final String[] photo_formats = {"jpg", "jpeg", "png", "webp", "bmp", "tif", "tiff", "svg", "heic"};
-    private static final String[] video_formats = {"mp4", "gif", "mov", "webm", "avi", "wmv", "rm", "mpg", "mpe", "mpeg", "mkv", "m4v",
+    private static final Logger logger = Logger.getLogger(GooglePhotosFileFixer.class);
+
+    private static String photosDir;
+    private static final String[] photoFormats = {"jpg", "jpeg", "png", "webp", "bmp", "tif", "tiff", "svg", "heic"};
+    private static final String[] videoFormats = {"mp4", "gif", "mov", "webm", "avi", "wmv", "rm", "mpg", "mpe", "mpeg", "mkv", "m4v",
             "mts", "m2ts"};
 
-    private static final String[] extra_formats = {
+    private static final String[] extraFormats = {
             "-edited", "-effects", "-smile", "-mix",
             "-edytowane",
             "-bearbeitet",
             "-bewerkt"};
 
-    private static final String[] altSnippet_formats = {
+    private static final String[] altSnippetFormats = {
             "-SNIPPE", "-SNIPP"};
 
-    private static final String JSON = "json";
-    private static int no_json_found = 0;
-    private static int renamed_files = 0;
-    private static int json_file_created = 0;
-
-    private static int filesCount = 0;
-
-    private static final Path pathPhotosDir = Paths.get(PHOTOS_DIR);
+    private static final String jsonExtension = "json";
+    private static int noJsonFound = 0;
+    private static int renamedFiles = 0;
+    private static int jsonFileCreated = 0;
 
     public static void main(String[] args) throws IOException {
-        logger.info("Processing started!");
-        logger.info("Started to process the path: " + PHOTOS_DIR);
+        if (args[0] == null || args[0].trim().isEmpty()) {
+            System.err.println("You need to specify a path!");
+        } else {
+            photosDir = args[0];
+            logger.info("Processing started!");
+            logger.info("Started to process the path: " + photosDir);
 
-        GooglePhotosFileFixer googlePhotosFileFixer = new GooglePhotosFileFixer();
-        googlePhotosFileFixer.doJsonNonStandardFilenameProcess();
-        googlePhotosFileFixer.doJsonMissingProcessWithProgressbar();
+            GooglePhotosFileFixer googlePhotosFileFixer = new GooglePhotosFileFixer();
+            googlePhotosFileFixer.doJsonNonStandardFilenameProcess();
+            googlePhotosFileFixer.doJsonMissingProcess();
 
-        logger.info("Processing finished!");
-        logger.info("Processing statistics");
-        logger.info("JSON Files created: " + json_file_created);
-        logger.info("Renamed JSON files: " + renamed_files);
-        logger.info("JSON Files not found: " + no_json_found);
+            logger.info("Processing finished!");
+            logger.info("Processing statistics");
+            logger.info("JSON Files created: " + jsonFileCreated);
+            logger.info("Renamed JSON files: " + renamedFiles);
+            logger.info("JSON Files not found: " + noJsonFound);
+        }
     }
 
     public static Optional<String> getExtensionByStringHandling(String filename) {
@@ -70,46 +70,46 @@ public class GooglePhotosFileFixer {
 
         String filenameSubstring = fileName.substring(0, fileName.indexOf(fileExtension) - 1);
 
-        String jsonFileName = filenameSubstring + "." + fileExtension + "." + JSON;
-        String incorrectJsonFileName = filenameSubstring + "." + JSON;
+        String jsonFileName = filenameSubstring + "." + fileExtension + "." + jsonExtension;
+        String incorrectJsonFileName = filenameSubstring + "." + jsonExtension;
 
-        Path pathFromFile =  Paths.get(PHOTOS_DIR);
+        Path pathFromFile = f.getParent();
 
-        boolean hasJson = Files.exists(Paths.get(PHOTOS_DIR+ "\\" + jsonFileName));
-        boolean hasIncorrectJson = Files.exists(Paths.get(PHOTOS_DIR+ "\\" + incorrectJsonFileName));
+        Path newPath = pathFromFile.resolve(jsonFileName);
+        Path newPathFromFile = pathFromFile.resolve(incorrectJsonFileName);
+
+        boolean hasJson = Files.exists(newPath);
+        boolean hasIncorrectJson = Files.exists(newPathFromFile);
 
         if (!hasJson) // JSON not found
         {
             if (hasIncorrectJson) {
-                Path newPath = Paths.get(PHOTOS_DIR+ "\\" + jsonFileName);
-                Path newPathFromFile = pathFromFile.resolve(incorrectJsonFileName);
                 renameFile(newPathFromFile, newPath);
             } else {
                 String extraFormat = getExtraFormat(fileName);
 
                 if (!"".equalsIgnoreCase(extraFormat)) // Found an extra file
                 {
-                    String editedJsonFile = fileName.substring(0, fileName.indexOf(extraFormat)) + "." + fileExtension + "." + JSON;
+                    String editedJsonFile = fileName.substring(0, fileName.indexOf(extraFormat)) + "." + fileExtension + "." + jsonExtension;
 
-                    boolean isEdited = Files.exists(Paths.get(PHOTOS_DIR+ "\\" + editedJsonFile));
+                    Path originalJson = pathFromFile.resolve(editedJsonFile);
+                    boolean isEdited = Files.exists(originalJson);
 
                     if (isEdited) {
                         // copy the JSON from the original photo to the edited one
-                        Path originalJson = Paths.get(PHOTOS_DIR+ "\\" + editedJsonFile);
-
-                        Path pathDestiny = Paths.get(f + "." + JSON);
-
+                        Path pathDestiny = Paths.get(f + "." + jsonExtension);
                         createNewFile(pathDestiny, originalJson);
                     }
                 } else {
-                    no_json_found++;
+                    logger.info("No json file found for the file: "+fileName);
+                    noJsonFound++;
                 }
             }
         }
     }
 
     private static String getExtraFormat(String fileName) {
-        for (String extraFormat : extra_formats)
+        for (String extraFormat : extraFormats)
             if (fileName.contains(extraFormat))
                 return extraFormat;
         return "";
@@ -131,7 +131,7 @@ public class GooglePhotosFileFixer {
             return list;
         }
 
-        for (String extraFormat : altSnippet_formats)
+        for (String extraFormat : altSnippetFormats)
             if (fileName.contains(extraFormat) && !fileName.contains("-SNIPPET")) {
                 list[0] = "-SNIPPET";
                 list[1] = extraFormat;
@@ -147,7 +147,7 @@ public class GooglePhotosFileFixer {
         } catch (IOException ex) {
             logger.error("Rename failed" + oldFile.getFileName() + " renamed to: " + newFile.getFileName());
         }
-        renamed_files++;
+        renamedFiles++;
     }
 
     private static void createNewFile(Path destiny, Path source) {
@@ -157,14 +157,15 @@ public class GooglePhotosFileFixer {
         } catch (IOException ex) {
             logger.error("Json file creation failed" + destiny.getFileName());
         }
-        json_file_created++;
+        jsonFileCreated++;
     }
 
     private void doJsonNonStandardFilenameProcess() throws IOException {
 
         logger.info("Started to fix non Standard file names!");
 
-        long count = 0;
+        long count;
+        Path pathPhotosDir = Paths.get(photosDir);
 
         try (Stream<Path> walkStream2 = Files.walk(pathPhotosDir)) {
             count = walkStream2.count();
@@ -185,15 +186,15 @@ public class GooglePhotosFileFixer {
         logger.info("Finished to fix non Standard File name!");
     }
 
-    private void doJsonMissingProcessWithProgressbar() throws IOException {
+    private void doJsonMissingProcess() throws IOException {
+        Path pathPhotosDir = Paths.get(photosDir);
 
         logger.info("Started to fix missing JSON files! ");
 
-        long count = 0;
+        long count;
         try (Stream<Path> walkStream2 = Files.walk(pathPhotosDir)) {
             count = walkStream2.count();
         }
-
 
         logger.info("Number of files found:" + count);
 
@@ -205,19 +206,18 @@ public class GooglePhotosFileFixer {
 
                 String fileExtension = getFileExtension(f);
 
-                boolean isValidFormat = Arrays.stream(photo_formats).anyMatch(fileExtension::equalsIgnoreCase) || Arrays.stream(video_formats).anyMatch(fileExtension::equalsIgnoreCase);
+                boolean isValidFormat = Arrays.stream(photoFormats).anyMatch(fileExtension::equalsIgnoreCase) || Arrays.stream(videoFormats).anyMatch(fileExtension::equalsIgnoreCase);
 
                 if (!"".equalsIgnoreCase(fileExtension) && isValidFormat)
                     fixMissingJson(f, fileExtension);
             });
-
         }
 
         logger.info("Finished to fix missing JSON files!");
     }
 
-    private String getFileExtension(Path f) {
-        Optional<String> extensionList = getExtensionByStringHandling(f.toString());
+    private String getFileExtension(Path file) {
+        Optional<String> extensionList = getExtensionByStringHandling(file.toString());
 
         if (extensionList.isPresent()) {
             return extensionList.get();
@@ -226,8 +226,8 @@ public class GooglePhotosFileFixer {
         return "";
     }
 
-    private static String getFileExtension(String f) {
-        Optional<String> extensionList = getExtensionByStringHandling(f);
+    private static String getFileExtension(String file) {
+        Optional<String> extensionList = getExtensionByStringHandling(file);
 
         if (extensionList.isPresent()) {
             return extensionList.get();
@@ -235,8 +235,8 @@ public class GooglePhotosFileFixer {
         return "";
     }
 
-    private void fixInvalidExtraFormatFileName(Path f) {
-        String fileName = f.getFileName().toString();
+    private void fixInvalidExtraFormatFileName(Path file) {
+        String fileName = file.getFileName().toString();
 
         String[] formatList = getWrongExtraFormat(fileName);
 
@@ -244,17 +244,17 @@ public class GooglePhotosFileFixer {
         {
             String newFilename = fileName.replace(formatList[1], formatList[0]);
 
-            Path directory = f.getParent();
-            Path newPath = Paths.get(directory + "\\" + newFilename);
+            Path directory = file.getParent();
+            Path newPath = Paths.get(directory.toString(), newFilename);
 
-            renameFile(f, newPath);
+            renameFile(file, newPath);
         }
     }
 
-    private void fixParenthesisPositionFileName(Path f) {
-        String mainFileExtension = getFileExtension(f);
+    private void fixParenthesisPositionFileName(Path file) {
+        String mainFileExtension = getFileExtension(file);
 
-        String oldFileName = f.getFileName().toString();
+        String oldFileName = file.getFileName().toString();
 
         final String regex2 = "\\([^\\d]*(\\d+)[^\\d]*\\)";
 
@@ -281,10 +281,10 @@ public class GooglePhotosFileFixer {
 
             String newFilename = isolatedFileName + parenthesisWithNumber + "." + auxFileExtension + "." + mainFileExtension;
 
-            Path directory = f.getParent();
-            Path newPath = Paths.get(directory + "\\" + newFilename);
+            Path directory = file.getParent();
+            Path newPath = Paths.get(directory.toString(), newFilename);
 
-            renameFile(f, newPath);
+            renameFile(file, newPath);
         }
     }
 }

@@ -2049,3 +2049,1063 @@
 2022-10-25 18:27:06,279 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 166
 2022-10-25 18:27:06,279 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 102
 2022-10-25 18:27:06,279 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 1
+2022-10-26 08:11:42,349 +0200 [main] INFO  (GooglePhotosFileFixer.java:44) - Processing started!
+2022-10-26 08:11:42,354 +0200 [main] INFO  (GooglePhotosFileFixer.java:45) - Started to process the path: C:\Users\febeil\Downloads\collages\Takeout\Google Photos\Collage
+2022-10-26 08:11:42,354 +0200 [main] INFO  (GooglePhotosFileFixer.java:164) - Started to fix non Standard file names!
+2022-10-26 08:11:42,452 +0200 [main] INFO  (GooglePhotosFileFixer.java:172) - Number of files found:1469
+2022-10-26 08:11:42,683 +0200 [main] INFO  (GooglePhotosFileFixer.java:184) - Finished to fix non Standard File name!
+2022-10-26 08:11:42,683 +0200 [main] INFO  (GooglePhotosFileFixer.java:189) - Started to fix missing JSON files! 
+2022-10-26 08:11:42,687 +0200 [main] INFO  (GooglePhotosFileFixer.java:197) - Number of files found:1469
+2022-10-26 08:31:25,580 +0200 [main] INFO  (GooglePhotosFileFixer.java:42) - Processing started!
+2022-10-26 08:31:25,583 +0200 [main] INFO  (GooglePhotosFileFixer.java:43) - Started to process the path: C:\Users\febeil\Downloads\collages\Takeout\Google Photos\Collage
+2022-10-26 08:31:25,583 +0200 [main] INFO  (GooglePhotosFileFixer.java:160) - Started to fix non Standard file names!
+2022-10-26 08:31:25,596 +0200 [main] INFO  (GooglePhotosFileFixer.java:169) - Number of files found:1469
+2022-10-26 08:31:25,740 +0200 [main] INFO  (GooglePhotosFileFixer.java:181) - Finished to fix non Standard File name!
+2022-10-26 08:31:25,740 +0200 [main] INFO  (GooglePhotosFileFixer.java:187) - Started to fix missing JSON files! 
+2022-10-26 08:31:25,747 +0200 [main] INFO  (GooglePhotosFileFixer.java:194) - Number of files found:1469
+2022-10-26 08:31:26,347 +0200 [main] INFO  (GooglePhotosFileFixer.java:211) - Finished to fix missing JSON files!
+2022-10-26 08:31:26,348 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Processing finished!
+2022-10-26 08:31:26,348 +0200 [main] INFO  (GooglePhotosFileFixer.java:50) - Processing statistics
+2022-10-26 08:31:26,350 +0200 [main] INFO  (GooglePhotosFileFixer.java:51) - JSON Files created: 0
+2022-10-26 08:31:26,350 +0200 [main] INFO  (GooglePhotosFileFixer.java:52) - Renamed JSON files: 0
+2022-10-26 08:31:26,350 +0200 [main] INFO  (GooglePhotosFileFixer.java:53) - JSON Files not found: 1
+2022-10-26 08:33:41,140 +0200 [main] INFO  (GooglePhotosFileFixer.java:42) - Processing started!
+2022-10-26 08:33:41,143 +0200 [main] INFO  (GooglePhotosFileFixer.java:43) - Started to process the path: C:\Users\febeil\Downloads\collages\Takeout\Google Photos\Collage
+2022-10-26 08:33:41,143 +0200 [main] INFO  (GooglePhotosFileFixer.java:160) - Started to fix non Standard file names!
+2022-10-26 08:33:41,148 +0200 [main] INFO  (GooglePhotosFileFixer.java:169) - Number of files found:1
+2022-10-26 08:33:41,258 +0200 [main] INFO  (GooglePhotosFileFixer.java:181) - Finished to fix non Standard File name!
+2022-10-26 08:33:41,258 +0200 [main] INFO  (GooglePhotosFileFixer.java:187) - Started to fix missing JSON files! 
+2022-10-26 08:33:41,260 +0200 [main] INFO  (GooglePhotosFileFixer.java:194) - Number of files found:1
+2022-10-26 08:33:41,289 +0200 [main] INFO  (GooglePhotosFileFixer.java:211) - Finished to fix missing JSON files!
+2022-10-26 08:33:41,290 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Processing finished!
+2022-10-26 08:33:41,290 +0200 [main] INFO  (GooglePhotosFileFixer.java:50) - Processing statistics
+2022-10-26 08:33:41,293 +0200 [main] INFO  (GooglePhotosFileFixer.java:51) - JSON Files created: 0
+2022-10-26 08:33:41,293 +0200 [main] INFO  (GooglePhotosFileFixer.java:52) - Renamed JSON files: 0
+2022-10-26 08:33:41,294 +0200 [main] INFO  (GooglePhotosFileFixer.java:53) - JSON Files not found: 0
+2022-10-26 08:34:12,954 +0200 [main] INFO  (GooglePhotosFileFixer.java:42) - Processing started!
+2022-10-26 08:34:12,959 +0200 [main] INFO  (GooglePhotosFileFixer.java:43) - Started to process the path: C:\Users\febeil\Downloads\collages\Takeout
+2022-10-26 08:34:12,959 +0200 [main] INFO  (GooglePhotosFileFixer.java:160) - Started to fix non Standard file names!
+2022-10-26 08:34:12,965 +0200 [main] INFO  (GooglePhotosFileFixer.java:169) - Number of files found:4
+2022-10-26 08:34:13,109 +0200 [main] INFO  (GooglePhotosFileFixer.java:181) - Finished to fix non Standard File name!
+2022-10-26 08:34:13,109 +0200 [main] INFO  (GooglePhotosFileFixer.java:187) - Started to fix missing JSON files! 
+2022-10-26 08:34:13,110 +0200 [main] INFO  (GooglePhotosFileFixer.java:194) - Number of files found:4
+2022-10-26 08:34:29,039 +0200 [main] INFO  (GooglePhotosFileFixer.java:211) - Finished to fix missing JSON files!
+2022-10-26 08:34:29,039 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Processing finished!
+2022-10-26 08:34:29,039 +0200 [main] INFO  (GooglePhotosFileFixer.java:50) - Processing statistics
+2022-10-26 08:34:29,041 +0200 [main] INFO  (GooglePhotosFileFixer.java:51) - JSON Files created: 0
+2022-10-26 08:34:29,041 +0200 [main] INFO  (GooglePhotosFileFixer.java:52) - Renamed JSON files: 0
+2022-10-26 08:34:29,042 +0200 [main] INFO  (GooglePhotosFileFixer.java:53) - JSON Files not found: 0
+2022-10-26 08:43:30,475 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 08:43:30,479 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 08:43:30,479 +0200 [main] INFO  (GooglePhotosFileFixer.java:167) - Started to fix non Standard file names!
+2022-10-26 08:43:30,486 +0200 [main] INFO  (GooglePhotosFileFixer.java:176) - Number of files found:4
+2022-10-26 08:43:30,630 +0200 [main] INFO  (GooglePhotosFileFixer.java:188) - Finished to fix non Standard File name!
+2022-10-26 08:43:30,630 +0200 [main] INFO  (GooglePhotosFileFixer.java:194) - Started to fix missing JSON files! 
+2022-10-26 08:43:30,631 +0200 [main] INFO  (GooglePhotosFileFixer.java:201) - Number of files found:4
+2022-10-26 08:43:39,740 +0200 [main] INFO  (GooglePhotosFileFixer.java:218) - Finished to fix missing JSON files!
+2022-10-26 08:43:39,740 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 08:43:39,740 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 08:43:39,743 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 08:43:39,743 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 0
+2022-10-26 08:43:39,743 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 0
+2022-10-26 08:44:16,553 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 08:44:16,564 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 08:44:16,564 +0200 [main] INFO  (GooglePhotosFileFixer.java:167) - Started to fix non Standard file names!
+2022-10-26 08:44:16,578 +0200 [main] INFO  (GooglePhotosFileFixer.java:176) - Number of files found:4
+2022-10-26 08:45:17,565 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 08:45:17,567 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 08:45:17,568 +0200 [main] INFO  (GooglePhotosFileFixer.java:167) - Started to fix non Standard file names!
+2022-10-26 08:45:17,580 +0200 [main] INFO  (GooglePhotosFileFixer.java:176) - Number of files found:1306
+2022-10-26 08:45:17,707 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:148) - DSC_1236-COLLAGE.jpg(1).json renamed to: DSC_1236-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,709 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - IMG_4385-COLLAGE.jpg(1).json renamed to: IMG_4385-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,707 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - DSC_0264-COLLAGE.jpg(1).json renamed to: DSC_0264-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,713 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - DSC_0468-COLLAGE.jpg(1).json renamed to: DSC_0468-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,714 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(1).json renamed to: EFFECTS(1).jpg.json
+2022-10-26 08:45:17,715 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(10).json renamed to: EFFECTS(10).jpg.json
+2022-10-26 08:45:17,716 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - DSC_0632-COLLAGE.jpg(1).json renamed to: DSC_0632-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,717 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(1).json renamed to: MOVIE(1).mp4.json
+2022-10-26 08:45:17,722 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(10).json renamed to: MOVIE(10).mp4.json
+2022-10-26 08:45:17,722 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(11).json renamed to: EFFECTS(11).jpg.json
+2022-10-26 08:45:17,722 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - DSC_1099-COLLAGE.jpg(1).json renamed to: DSC_1099-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,724 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(12).json renamed to: EFFECTS(12).jpg.json
+2022-10-26 08:45:17,725 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - _DSF5483-ANIMATION.gif(1).json renamed to: _DSF5483-ANIMATION(1).gif.json
+2022-10-26 08:45:17,726 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(11).json renamed to: MOVIE(11).mp4.json
+2022-10-26 08:45:17,726 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(13).json renamed to: EFFECTS(13).jpg.json
+2022-10-26 08:45:17,728 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(1).json renamed to: COLOR_POP(1).jpg.json
+2022-10-26 08:45:17,728 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(14).json renamed to: EFFECTS(14).jpg.json
+2022-10-26 08:45:17,728 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(12).json renamed to: MOVIE(12).mp4.json
+2022-10-26 08:45:17,728 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(10).json renamed to: COLOR_POP(10).jpg.json
+2022-10-26 08:45:17,730 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(15).json renamed to: EFFECTS(15).jpg.json
+2022-10-26 08:45:17,734 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(11).json renamed to: COLOR_POP(11).jpg.json
+2022-10-26 08:45:17,742 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(13).json renamed to: MOVIE(13).mp4.json
+2022-10-26 08:45:17,742 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(16).json renamed to: EFFECTS(16).jpg.json
+2022-10-26 08:45:17,743 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(12).json renamed to: COLOR_POP(12).jpg.json
+2022-10-26 08:45:17,744 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 03-04-2018_StefanM_Sunset Königstuhlblick-EFFE.json renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.json
+2022-10-26 08:45:17,745 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(17).json renamed to: EFFECTS(17).jpg.json
+2022-10-26 08:45:17,745 +0200 [main] INFO  (GooglePhotosFileFixer.java:148) - 20220606_154934-COLLAGE.jpg(1).json renamed to: 20220606_154934-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,747 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(14).json renamed to: MOVIE(14).mp4.json
+2022-10-26 08:45:17,745 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(8).json renamed to: EFFECTS(8).jpg.json
+2022-10-26 08:45:17,750 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(15).json renamed to: MOVIE(15).mp4.json
+2022-10-26 08:45:17,748 +0200 [main] INFO  (GooglePhotosFileFixer.java:148) - 20220607_221441-COLLAGE.jpg(1).json renamed to: 20220607_221441-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,747 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(18).json renamed to: EFFECTS(18).jpg.json
+2022-10-26 08:45:17,747 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC(1).jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS(1).jpg
+2022-10-26 08:45:17,747 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(13).json renamed to: COLOR_POP(13).jpg.json
+2022-10-26 08:45:17,752 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(16).json renamed to: MOVIE(16).mp4.json
+2022-10-26 08:45:17,753 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(14).json renamed to: COLOR_POP(14).jpg.json
+2022-10-26 08:45:17,753 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(19).json renamed to: EFFECTS(19).jpg.json
+2022-10-26 08:45:17,753 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC.jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.jpg
+2022-10-26 08:45:17,754 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(17).json renamed to: MOVIE(17).mp4.json
+2022-10-26 08:45:17,755 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(2).json renamed to: EFFECTS(2).jpg.json
+2022-10-26 08:45:17,753 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(9).json renamed to: EFFECTS(9).jpg.json
+2022-10-26 08:45:17,755 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(15).json renamed to: COLOR_POP(15).jpg.json
+2022-10-26 08:45:17,757 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.json
+2022-10-26 08:45:17,758 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(18).json renamed to: MOVIE(18).mp4.json
+2022-10-26 08:45:17,758 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(20).json renamed to: EFFECTS(20).jpg.json
+2022-10-26 08:45:17,758 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(16).json renamed to: COLOR_POP(16).jpg.json
+2022-10-26 08:45:17,759 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.mp4
+2022-10-26 08:45:17,760 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(21).json renamed to: EFFECTS(21).jpg.json
+2022-10-26 08:45:17,761 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(2).json renamed to: MOVIE(2).mp4.json
+2022-10-26 08:45:17,762 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(22).json renamed to: EFFECTS(22).jpg.json
+2022-10-26 08:45:17,762 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.json
+2022-10-26 08:45:17,762 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(17).json renamed to: COLOR_POP(17).jpg.json
+2022-10-26 08:45:17,765 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.mp4
+2022-10-26 08:45:17,765 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(23).json renamed to: EFFECTS(23).jpg.json
+2022-10-26 08:45:17,765 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(3).json renamed to: MOVIE(3).mp4.json
+2022-10-26 08:45:17,765 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:148) - IMG_0236-COLLAGE.jpg(1).json renamed to: IMG_0236-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,765 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(18).json renamed to: COLOR_POP(18).jpg.json
+2022-10-26 08:45:17,766 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.json
+2022-10-26 08:45:17,767 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(24).json renamed to: EFFECTS(24).jpg.json
+2022-10-26 08:45:17,767 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(4).json renamed to: MOVIE(4).mp4.json
+2022-10-26 08:45:17,768 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(19).json renamed to: COLOR_POP(19).jpg.json
+2022-10-26 08:45:17,768 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.mp4
+2022-10-26 08:45:17,769 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(25).json renamed to: EFFECTS(25).jpg.json
+2022-10-26 08:45:17,769 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(5).json renamed to: MOVIE(5).mp4.json
+2022-10-26 08:45:17,770 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(2).json renamed to: COLOR_POP(2).jpg.json
+2022-10-26 08:45:17,770 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.json
+2022-10-26 08:45:17,771 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(6).json renamed to: MOVIE(6).mp4.json
+2022-10-26 08:45:17,771 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(20).json renamed to: COLOR_POP(20).jpg.json
+2022-10-26 08:45:17,771 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(26).json renamed to: EFFECTS(26).jpg.json
+2022-10-26 08:45:17,771 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.mp4
+2022-10-26 08:45:17,773 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(21).json renamed to: COLOR_POP(21).jpg.json
+2022-10-26 08:45:17,774 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(3).json renamed to: EFFECTS(3).jpg.json
+2022-10-26 08:45:17,774 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.json
+2022-10-26 08:45:17,774 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(7).json renamed to: MOVIE(7).mp4.json
+2022-10-26 08:45:17,775 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(22).json renamed to: COLOR_POP(22).jpg.json
+2022-10-26 08:45:17,775 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(4).json renamed to: EFFECTS(4).jpg.json
+2022-10-26 08:45:17,776 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:148) - 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.mp4
+2022-10-26 08:45:17,776 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(23).json renamed to: COLOR_POP(23).jpg.json
+2022-10-26 08:45:17,776 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(8).json renamed to: MOVIE(8).mp4.json
+2022-10-26 08:45:17,776 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(5).json renamed to: EFFECTS(5).jpg.json
+2022-10-26 08:45:17,777 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(24).json renamed to: COLOR_POP(24).jpg.json
+2022-10-26 08:45:17,778 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:148) - MOVIE.mp4(9).json renamed to: MOVIE(9).mp4.json
+2022-10-26 08:45:17,778 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(6).json renamed to: EFFECTS(6).jpg.json
+2022-10-26 08:45:17,778 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(25).json renamed to: COLOR_POP(25).jpg.json
+2022-10-26 08:45:17,779 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:148) - EFFECTS.jpg(7).json renamed to: EFFECTS(7).jpg.json
+2022-10-26 08:45:17,779 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(26).json renamed to: COLOR_POP(26).jpg.json
+2022-10-26 08:45:17,780 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(27).json renamed to: COLOR_POP(27).jpg.json
+2022-10-26 08:45:17,781 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(3).json renamed to: COLOR_POP(3).jpg.json
+2022-10-26 08:45:17,783 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(4).json renamed to: COLOR_POP(4).jpg.json
+2022-10-26 08:45:17,784 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(5).json renamed to: COLOR_POP(5).jpg.json
+2022-10-26 08:45:17,785 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(6).json renamed to: COLOR_POP(6).jpg.json
+2022-10-26 08:45:17,786 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(7).json renamed to: COLOR_POP(7).jpg.json
+2022-10-26 08:45:17,788 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(8).json renamed to: COLOR_POP(8).jpg.json
+2022-10-26 08:45:17,790 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - COLOR_POP.jpg(9).json renamed to: COLOR_POP(9).jpg.json
+2022-10-26 08:45:17,792 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:148) - DSC00051-COLLAGE.jpg(1).json renamed to: DSC00051-COLLAGE(1).jpg.json
+2022-10-26 08:45:17,796 +0200 [main] INFO  (GooglePhotosFileFixer.java:188) - Finished to fix non Standard File name!
+2022-10-26 08:45:17,797 +0200 [main] INFO  (GooglePhotosFileFixer.java:194) - Started to fix missing JSON files! 
+2022-10-26 08:45:17,804 +0200 [main] INFO  (GooglePhotosFileFixer.java:201) - Number of files found:1306
+2022-10-26 08:45:17,905 +0200 [main] INFO  (GooglePhotosFileFixer.java:218) - Finished to fix missing JSON files!
+2022-10-26 08:45:17,906 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 08:45:17,906 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 08:45:17,909 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 08:45:17,909 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 95
+2022-10-26 08:45:17,909 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 568
+2022-10-26 08:45:32,995 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 08:45:32,997 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 08:45:32,997 +0200 [main] INFO  (GooglePhotosFileFixer.java:167) - Started to fix non Standard file names!
+2022-10-26 08:45:33,011 +0200 [main] INFO  (GooglePhotosFileFixer.java:176) - Number of files found:1306
+2022-10-26 08:45:33,160 +0200 [main] INFO  (GooglePhotosFileFixer.java:188) - Finished to fix non Standard File name!
+2022-10-26 08:45:33,161 +0200 [main] INFO  (GooglePhotosFileFixer.java:194) - Started to fix missing JSON files! 
+2022-10-26 08:45:33,167 +0200 [main] INFO  (GooglePhotosFileFixer.java:201) - Number of files found:1306
+2022-10-26 08:45:33,267 +0200 [main] INFO  (GooglePhotosFileFixer.java:218) - Finished to fix missing JSON files!
+2022-10-26 08:45:33,267 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 08:45:33,267 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 08:45:33,269 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 08:45:33,269 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 0
+2022-10-26 08:45:33,270 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 568
+2022-10-26 08:46:42,571 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 08:46:42,577 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 08:46:42,578 +0200 [main] INFO  (GooglePhotosFileFixer.java:165) - Started to fix non Standard file names!
+2022-10-26 08:46:42,591 +0200 [main] INFO  (GooglePhotosFileFixer.java:174) - Number of files found:1306
+2022-10-26 08:46:42,771 +0200 [main] INFO  (GooglePhotosFileFixer.java:186) - Finished to fix non Standard File name!
+2022-10-26 08:46:42,771 +0200 [main] INFO  (GooglePhotosFileFixer.java:192) - Started to fix missing JSON files! 
+2022-10-26 08:46:42,776 +0200 [main] INFO  (GooglePhotosFileFixer.java:199) - Number of files found:1306
+2022-10-26 08:56:01,146 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 08:56:01,150 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 08:56:01,150 +0200 [main] INFO  (GooglePhotosFileFixer.java:166) - Started to fix non Standard file names!
+2022-10-26 08:56:01,166 +0200 [main] INFO  (GooglePhotosFileFixer.java:175) - Number of files found:1306
+2022-10-26 08:56:01,360 +0200 [main] INFO  (GooglePhotosFileFixer.java:187) - Finished to fix non Standard File name!
+2022-10-26 08:56:01,361 +0200 [main] INFO  (GooglePhotosFileFixer.java:193) - Started to fix missing JSON files! 
+2022-10-26 08:56:01,366 +0200 [main] INFO  (GooglePhotosFileFixer.java:200) - Number of files found:1306
+2022-10-26 09:00:15,741 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:00:15,744 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:00:15,744 +0200 [main] INFO  (GooglePhotosFileFixer.java:165) - Started to fix non Standard file names!
+2022-10-26 09:00:15,760 +0200 [main] INFO  (GooglePhotosFileFixer.java:174) - Number of files found:1306
+2022-10-26 09:00:15,918 +0200 [main] INFO  (GooglePhotosFileFixer.java:186) - Finished to fix non Standard File name!
+2022-10-26 09:00:15,918 +0200 [main] INFO  (GooglePhotosFileFixer.java:192) - Started to fix missing JSON files! 
+2022-10-26 09:00:15,925 +0200 [main] INFO  (GooglePhotosFileFixer.java:199) - Number of files found:1306
+2022-10-26 09:00:15,974 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5543-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,976 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5549-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,985 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2318-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,985 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1408-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,986 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSC_8674-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,986 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6027-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,985 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5160-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,985 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5807-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,985 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF3816-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,986 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0998-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,989 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2321-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,992 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6519-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,992 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSC_8676-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,993 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5239-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,994 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF4174-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,995 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2329-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,995 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1416-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,995 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5814-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,997 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6597-EFFECTS-edited.jpg.json
+2022-10-26 09:00:15,998 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1008-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,000 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2332-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,001 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1428-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,002 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5820-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,003 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF4458-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,004 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6943-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,004 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1041-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,004 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5409-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,007 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2410-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,008 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1139-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,008 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1430-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,009 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5840-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,009 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0363-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,009 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5410-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,010 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF4798-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,011 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2461-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,014 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0453-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,015 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1495-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,016 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5454-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,016 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5866-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,017 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5132-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,016 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2099-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,016 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1189-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,018 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1505-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,020 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0703-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,020 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20201025_114429-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,021 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5133-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,021 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1388-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,021 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2155-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,024 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6000-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,025 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1801-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,026 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2169-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,026 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF3146-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,026 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190305_134743-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,027 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_20180330_160256-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,028 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(1).jpg.json
+2022-10-26 09:00:16,029 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2758-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,030 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1821-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,030 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20201106_092548~2-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,031 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF3494-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,031 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190308_122010-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,031 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2310-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,033 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(10).jpg.json
+2022-10-26 09:00:16,033 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1822-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,035 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF3734-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,035 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2552-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,035 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190309_172454-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,036 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(11).jpg.json
+2022-10-26 09:00:16,037 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20201127_085930-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,037 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_2908-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,038 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2038-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,038 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20180811_103112-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,040 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2636-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,040 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(12).jpg.json
+2022-10-26 09:00:16,040 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190309_172926-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,042 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20201128_161543-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,042 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2468-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,042 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_1169-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,044 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(13).jpg.json
+2022-10-26 09:00:16,045 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_7775-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,044 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2640-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,046 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190309_172932-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,048 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2480-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,049 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2744-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,051 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(14).jpg.json
+2022-10-26 09:00:16,051 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190315_125802-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,051 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20210822_184628-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,051 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_9707-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,052 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2517-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,054 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2750-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,055 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(15).jpg.json
+2022-10-26 09:00:16,056 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,056 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190407_122207-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,055 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2526-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,061 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20210822_184823-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,061 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: G1930888-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,061 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190112_134803-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,062 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(16).jpg.json
+2022-10-26 09:00:16,063 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2550-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,063 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: MSW03917-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,064 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2756-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,064 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190518_164035-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,066 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190112_134918-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,067 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(17).jpg.json
+2022-10-26 09:00:16,069 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20211127_152418-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,070 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0049-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,070 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(18).jpg.json
+2022-10-26 09:00:16,071 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190530_074957-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,072 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190129_171213-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,073 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0097-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,074 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0085-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,074 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(19).jpg.json
+2022-10-26 09:00:16,074 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190616_140128-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,076 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190129_171219-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,076 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0100-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,077 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0112-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,077 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(2).jpg.json
+2022-10-26 09:00:16,080 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190129_171228-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,080 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191223_152437-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,080 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190616_161303-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,081 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0156-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,082 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF0257-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,082 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: COLOR_POP-edited.jpg.json
+2022-10-26 09:00:16,082 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0519-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,084 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190203_125533-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,084 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191223_154151-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,085 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(20).jpg.json
+2022-10-26 09:00:16,085 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190617_122024-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,086 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0261-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,087 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(21).jpg.json
+2022-10-26 09:00:16,088 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0522-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,089 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190617_135205-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,089 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF0258-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,089 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.json renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.jpg.json
+2022-10-26 09:00:16,090 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191226_161440-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,091 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20220103_155405-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,091 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0615-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,091 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(22).jpg.json
+2022-10-26 09:00:16,092 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190617_140154-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,094 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.mp4.json
+2022-10-26 09:00:16,095 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF1450-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,095 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(23).jpg.json
+2022-10-26 09:00:16,095 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190627_201857-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,095 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.mp4.json
+2022-10-26 09:00:16,096 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191228_120125-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,097 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.mp4.json
+2022-10-26 09:00:16,098 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF6871-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,099 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190706_152844-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,099 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(24).jpg.json
+2022-10-26 09:00:16,099 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.mp4.json
+2022-10-26 09:00:16,100 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191229_143359-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,101 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.mp4.json
+2022-10-26 09:00:16,102 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(25).jpg.json
+2022-10-26 09:00:16,102 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF6890-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,103 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Semana_da_Eri_em_Pilar_DSC_0711-ANIMATION.json renamed to: 2013_Semana_da_Eri_em_Pilar_DSC_0711-ANIMATION.gif.json
+2022-10-26 09:00:16,105 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190720_181734-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,105 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20220818_185411-COLLAGE-edited.jpg.json
+2022-10-26 09:00:16,105 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(26).jpg.json
+2022-10-26 09:00:16,106 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200102_131111-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,107 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190720_181755-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,107 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(3).jpg.json
+2022-10-26 09:00:16,109 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(4).jpg.json
+2022-10-26 09:00:16,109 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190726_184931-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,111 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(5).jpg.json
+2022-10-26 09:00:16,111 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200407_181031-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,112 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190731_201438-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,113 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(6).jpg.json
+2022-10-26 09:00:16,114 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200627_212251-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,115 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(7).jpg.json
+2022-10-26 09:00:16,115 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191106_163620-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,117 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(8).jpg.json
+2022-10-26 09:00:16,118 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200817_185847-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,119 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(9).jpg.json
+2022-10-26 09:00:16,122 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200927_183350-EFFECTS-edited.jpg.json
+2022-10-26 09:00:16,124 +0200 [main] INFO  (GooglePhotosFileFixer.java:216) - Finished to fix missing JSON files!
+2022-10-26 09:00:16,124 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:00:16,124 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:00:16,126 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 166
+2022-10-26 09:00:16,126 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 7
+2022-10-26 09:00:16,127 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 1
+2022-10-26 09:00:26,361 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:00:26,363 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:00:26,363 +0200 [main] INFO  (GooglePhotosFileFixer.java:165) - Started to fix non Standard file names!
+2022-10-26 09:00:26,376 +0200 [main] INFO  (GooglePhotosFileFixer.java:174) - Number of files found:1472
+2022-10-26 09:00:26,534 +0200 [main] INFO  (GooglePhotosFileFixer.java:186) - Finished to fix non Standard File name!
+2022-10-26 09:00:26,535 +0200 [main] INFO  (GooglePhotosFileFixer.java:192) - Started to fix missing JSON files! 
+2022-10-26 09:00:26,542 +0200 [main] INFO  (GooglePhotosFileFixer.java:199) - Number of files found:1472
+2022-10-26 09:00:26,740 +0200 [main] INFO  (GooglePhotosFileFixer.java:216) - Finished to fix missing JSON files!
+2022-10-26 09:00:26,741 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:00:26,741 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:00:26,743 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 09:00:26,743 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 0
+2022-10-26 09:00:26,743 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 1
+2022-10-26 09:02:52,542 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:02:52,547 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:02:52,547 +0200 [main] INFO  (GooglePhotosFileFixer.java:165) - Started to fix non Standard file names!
+2022-10-26 09:02:52,562 +0200 [main] INFO  (GooglePhotosFileFixer.java:174) - Number of files found:1472
+2022-10-26 09:03:07,493 +0200 [main] INFO  (GooglePhotosFileFixer.java:186) - Finished to fix non Standard File name!
+2022-10-26 09:03:07,493 +0200 [main] INFO  (GooglePhotosFileFixer.java:192) - Started to fix missing JSON files! 
+2022-10-26 09:03:07,497 +0200 [main] INFO  (GooglePhotosFileFixer.java:199) - Number of files found:1472
+2022-10-26 09:04:30,592 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:04:30,595 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:04:30,595 +0200 [main] INFO  (GooglePhotosFileFixer.java:165) - Started to fix non Standard file names!
+2022-10-26 09:04:30,610 +0200 [main] INFO  (GooglePhotosFileFixer.java:174) - Number of files found:1568
+2022-10-26 09:07:06,744 +0200 [ForkJoinPool.commonPool-worker-4] ERROR (GooglePhotosFileFixer.java:148) - Rename failed_DSF5483-ANIMATION.gif(1).json renamed to: _DSF5483-ANIMATION(1).gif.json
+2022-10-26 09:07:06,744 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_0264-COLLAGE.jpg(1).json renamed to: DSC_0264-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,744 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(1).json renamed to: EFFECTS(1).jpg.json
+2022-10-26 09:07:06,744 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(22).json renamed to: COLOR_POP(22).jpg.json
+2022-10-26 09:07:06,744 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(1).json renamed to: MOVIE(1).mp4.json
+2022-10-26 09:07:06,757 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(23).json renamed to: COLOR_POP(23).jpg.json
+2022-10-26 09:07:06,756 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(10).json renamed to: EFFECTS(10).jpg.json
+2022-10-26 09:07:06,760 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(11).json renamed to: EFFECTS(11).jpg.json
+2022-10-26 09:07:06,756 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_0632-COLLAGE.jpg(1).json renamed to: DSC_0632-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,753 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed20220606_154934-COLLAGE.jpg(1).json renamed to: 20220606_154934-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,753 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_0468-COLLAGE.jpg(1).json renamed to: DSC_0468-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,761 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(12).json renamed to: EFFECTS(12).jpg.json
+2022-10-26 09:07:06,765 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_1099-COLLAGE.jpg(1).json renamed to: DSC_1099-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,758 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(24).json renamed to: COLOR_POP(24).jpg.json
+2022-10-26 09:07:06,758 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(10).json renamed to: MOVIE(10).mp4.json
+2022-10-26 09:07:06,766 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_1236-COLLAGE.jpg(1).json renamed to: DSC_1236-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,766 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(11).json renamed to: MOVIE(11).mp4.json
+2022-10-26 09:07:06,765 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(13).json renamed to: EFFECTS(13).jpg.json
+2022-10-26 09:07:06,764 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed20220607_221441-COLLAGE.jpg(1).json renamed to: 20220607_221441-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,767 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(14).json renamed to: EFFECTS(14).jpg.json
+2022-10-26 09:07:06,766 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(12).json renamed to: MOVIE(12).mp4.json
+2022-10-26 09:07:06,766 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedIMG_0236-COLLAGE.jpg(1).json renamed to: IMG_0236-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,766 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(25).json renamed to: COLOR_POP(25).jpg.json
+2022-10-26 09:07:06,772 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(15).json renamed to: EFFECTS(15).jpg.json
+2022-10-26 09:07:06,771 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(13).json renamed to: MOVIE(13).mp4.json
+2022-10-26 09:07:06,773 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(16).json renamed to: EFFECTS(16).jpg.json
+2022-10-26 09:07:06,770 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failedIMG_4385-COLLAGE.jpg(1).json renamed to: IMG_4385-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,773 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(14).json renamed to: MOVIE(14).mp4.json
+2022-10-26 09:07:06,773 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(26).json renamed to: COLOR_POP(26).jpg.json
+2022-10-26 09:07:06,774 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(15).json renamed to: MOVIE(15).mp4.json
+2022-10-26 09:07:06,774 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(17).json renamed to: EFFECTS(17).jpg.json
+2022-10-26 09:07:06,775 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(27).json renamed to: COLOR_POP(27).jpg.json
+2022-10-26 09:07:06,775 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(16).json renamed to: MOVIE(16).mp4.json
+2022-10-26 09:07:06,775 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:146) - 03-04-2018_StefanM_Sunset Königstuhlblick-EFFE.json renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.json
+2022-10-26 09:07:06,776 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(17).json renamed to: MOVIE(17).mp4.json
+2022-10-26 09:07:06,776 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failed03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC(1).jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS(1).jpg
+2022-10-26 09:07:06,777 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failed03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC.jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.jpg
+2022-10-26 09:07:06,776 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(3).json renamed to: COLOR_POP(3).jpg.json
+2022-10-26 09:07:06,777 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(18).json renamed to: EFFECTS(18).jpg.json
+2022-10-26 09:07:06,777 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(18).json renamed to: MOVIE(18).mp4.json
+2022-10-26 09:07:06,781 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(4).json renamed to: COLOR_POP(4).jpg.json
+2022-10-26 09:07:06,781 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(2).json renamed to: MOVIE(2).mp4.json
+2022-10-26 09:07:06,781 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(1).json renamed to: COLOR_POP(1).jpg.json
+2022-10-26 09:07:06,781 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(19).json renamed to: EFFECTS(19).jpg.json
+2022-10-26 09:07:06,782 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(10).json renamed to: COLOR_POP(10).jpg.json
+2022-10-26 09:07:06,782 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(3).json renamed to: MOVIE(3).mp4.json
+2022-10-26 09:07:06,783 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(11).json renamed to: COLOR_POP(11).jpg.json
+2022-10-26 09:07:06,783 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(4).json renamed to: MOVIE(4).mp4.json
+2022-10-26 09:07:06,783 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(12).json renamed to: COLOR_POP(12).jpg.json
+2022-10-26 09:07:06,781 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(5).json renamed to: COLOR_POP(5).jpg.json
+2022-10-26 09:07:06,784 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(13).json renamed to: COLOR_POP(13).jpg.json
+2022-10-26 09:07:06,781 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.json
+2022-10-26 09:07:06,784 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(6).json renamed to: COLOR_POP(6).jpg.json
+2022-10-26 09:07:06,784 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(5).json renamed to: MOVIE(5).mp4.json
+2022-10-26 09:07:06,783 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(2).json renamed to: EFFECTS(2).jpg.json
+2022-10-26 09:07:06,785 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(7).json renamed to: COLOR_POP(7).jpg.json
+2022-10-26 09:07:06,784 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.mp4
+2022-10-26 09:07:06,784 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(14).json renamed to: COLOR_POP(14).jpg.json
+2022-10-26 09:07:06,785 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(8).json renamed to: COLOR_POP(8).jpg.json
+2022-10-26 09:07:06,785 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(15).json renamed to: COLOR_POP(15).jpg.json
+2022-10-26 09:07:06,785 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(20).json renamed to: EFFECTS(20).jpg.json
+2022-10-26 09:07:06,785 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(6).json renamed to: MOVIE(6).mp4.json
+2022-10-26 09:07:06,786 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(16).json renamed to: COLOR_POP(16).jpg.json
+2022-10-26 09:07:06,786 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(9).json renamed to: COLOR_POP(9).jpg.json
+2022-10-26 09:07:06,786 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.json
+2022-10-26 09:07:06,786 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(7).json renamed to: MOVIE(7).mp4.json
+2022-10-26 09:07:06,786 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(21).json renamed to: EFFECTS(21).jpg.json
+2022-10-26 09:07:06,787 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.mp4
+2022-10-26 09:07:06,788 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(22).json renamed to: EFFECTS(22).jpg.json
+2022-10-26 09:07:06,786 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(17).json renamed to: COLOR_POP(17).jpg.json
+2022-10-26 09:07:06,788 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC00051-COLLAGE.jpg(1).json renamed to: DSC00051-COLLAGE(1).jpg.json
+2022-10-26 09:07:06,788 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(8).json renamed to: MOVIE(8).mp4.json
+2022-10-26 09:07:06,788 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(23).json renamed to: EFFECTS(23).jpg.json
+2022-10-26 09:07:06,789 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(18).json renamed to: COLOR_POP(18).jpg.json
+2022-10-26 09:07:06,789 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.json
+2022-10-26 09:07:06,790 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(19).json renamed to: COLOR_POP(19).jpg.json
+2022-10-26 09:07:06,790 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.mp4
+2022-10-26 09:07:06,789 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(9).json renamed to: MOVIE(9).mp4.json
+2022-10-26 09:07:06,790 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(2).json renamed to: COLOR_POP(2).jpg.json
+2022-10-26 09:07:06,790 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(24).json renamed to: EFFECTS(24).jpg.json
+2022-10-26 09:07:06,791 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(20).json renamed to: COLOR_POP(20).jpg.json
+2022-10-26 09:07:06,792 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.json
+2022-10-26 09:07:06,791 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(25).json renamed to: EFFECTS(25).jpg.json
+2022-10-26 09:07:06,792 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(21).json renamed to: COLOR_POP(21).jpg.json
+2022-10-26 09:07:06,792 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.mp4
+2022-10-26 09:07:06,792 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(26).json renamed to: EFFECTS(26).jpg.json
+2022-10-26 09:07:06,792 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(3).json renamed to: EFFECTS(3).jpg.json
+2022-10-26 09:07:06,793 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(4).json renamed to: EFFECTS(4).jpg.json
+2022-10-26 09:07:06,794 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.json
+2022-10-26 09:07:06,794 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(5).json renamed to: EFFECTS(5).jpg.json
+2022-10-26 09:07:06,794 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.mp4
+2022-10-26 09:07:06,794 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(6).json renamed to: EFFECTS(6).jpg.json
+2022-10-26 09:07:06,795 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(7).json renamed to: EFFECTS(7).jpg.json
+2022-10-26 09:07:06,795 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(8).json renamed to: EFFECTS(8).jpg.json
+2022-10-26 09:07:06,795 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(9).json renamed to: EFFECTS(9).jpg.json
+2022-10-26 09:07:06,799 +0200 [main] INFO  (GooglePhotosFileFixer.java:186) - Finished to fix non Standard File name!
+2022-10-26 09:07:06,799 +0200 [main] INFO  (GooglePhotosFileFixer.java:192) - Started to fix missing JSON files! 
+2022-10-26 09:07:06,805 +0200 [main] INFO  (GooglePhotosFileFixer.java:199) - Number of files found:1568
+2022-10-26 09:08:26,244 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:08:26,247 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:08:26,247 +0200 [main] INFO  (GooglePhotosFileFixer.java:165) - Started to fix non Standard file names!
+2022-10-26 09:08:26,264 +0200 [main] INFO  (GooglePhotosFileFixer.java:174) - Number of files found:1568
+2022-10-26 09:08:26,372 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(22).json renamed to: COLOR_POP(22).jpg.json
+2022-10-26 09:08:26,373 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(1).json renamed to: EFFECTS(1).jpg.json
+2022-10-26 09:08:26,372 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(1).json renamed to: COLOR_POP(1).jpg.json
+2022-10-26 09:08:26,380 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(10).json renamed to: EFFECTS(10).jpg.json
+2022-10-26 09:08:26,380 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(11).json renamed to: EFFECTS(11).jpg.json
+2022-10-26 09:08:26,381 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(12).json renamed to: EFFECTS(12).jpg.json
+2022-10-26 09:08:26,381 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(13).json renamed to: EFFECTS(13).jpg.json
+2022-10-26 09:08:26,372 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_0264-COLLAGE.jpg(1).json renamed to: DSC_0264-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,382 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(14).json renamed to: EFFECTS(14).jpg.json
+2022-10-26 09:08:26,383 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(15).json renamed to: EFFECTS(15).jpg.json
+2022-10-26 09:08:26,380 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(10).json renamed to: COLOR_POP(10).jpg.json
+2022-10-26 09:08:26,383 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(16).json renamed to: EFFECTS(16).jpg.json
+2022-10-26 09:08:26,374 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(23).json renamed to: COLOR_POP(23).jpg.json
+2022-10-26 09:08:26,383 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(11).json renamed to: COLOR_POP(11).jpg.json
+2022-10-26 09:08:26,384 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(24).json renamed to: COLOR_POP(24).jpg.json
+2022-10-26 09:08:26,385 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(12).json renamed to: COLOR_POP(12).jpg.json
+2022-10-26 09:08:26,386 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(25).json renamed to: COLOR_POP(25).jpg.json
+2022-10-26 09:08:26,386 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed20220606_154934-COLLAGE.jpg(1).json renamed to: 20220606_154934-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,386 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(13).json renamed to: COLOR_POP(13).jpg.json
+2022-10-26 09:08:26,386 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(26).json renamed to: COLOR_POP(26).jpg.json
+2022-10-26 09:08:26,386 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(14).json renamed to: COLOR_POP(14).jpg.json
+2022-10-26 09:08:26,387 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed20220607_221441-COLLAGE.jpg(1).json renamed to: 20220607_221441-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,387 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(27).json renamed to: COLOR_POP(27).jpg.json
+2022-10-26 09:08:26,387 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(15).json renamed to: COLOR_POP(15).jpg.json
+2022-10-26 09:08:26,387 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(3).json renamed to: COLOR_POP(3).jpg.json
+2022-10-26 09:08:26,387 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(16).json renamed to: COLOR_POP(16).jpg.json
+2022-10-26 09:08:26,387 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(17).json renamed to: EFFECTS(17).jpg.json
+2022-10-26 09:08:26,388 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(18).json renamed to: EFFECTS(18).jpg.json
+2022-10-26 09:08:26,390 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(19).json renamed to: EFFECTS(19).jpg.json
+2022-10-26 09:08:26,387 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(17).json renamed to: COLOR_POP(17).jpg.json
+2022-10-26 09:08:26,387 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_0468-COLLAGE.jpg(1).json renamed to: DSC_0468-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,387 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(4).json renamed to: COLOR_POP(4).jpg.json
+2022-10-26 09:08:26,391 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failed_DSF5483-ANIMATION.gif(1).json renamed to: _DSF5483-ANIMATION(1).gif.json
+2022-10-26 09:08:26,391 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(18).json renamed to: COLOR_POP(18).jpg.json
+2022-10-26 09:08:26,392 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(19).json renamed to: COLOR_POP(19).jpg.json
+2022-10-26 09:08:26,393 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(2).json renamed to: COLOR_POP(2).jpg.json
+2022-10-26 09:08:26,393 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_0632-COLLAGE.jpg(1).json renamed to: DSC_0632-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,392 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(5).json renamed to: COLOR_POP(5).jpg.json
+2022-10-26 09:08:26,393 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(6).json renamed to: COLOR_POP(6).jpg.json
+2022-10-26 09:08:26,393 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(7).json renamed to: COLOR_POP(7).jpg.json
+2022-10-26 09:08:26,393 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(20).json renamed to: COLOR_POP(20).jpg.json
+2022-10-26 09:08:26,394 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(8).json renamed to: COLOR_POP(8).jpg.json
+2022-10-26 09:08:26,394 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(21).json renamed to: COLOR_POP(21).jpg.json
+2022-10-26 09:08:26,394 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(9).json renamed to: COLOR_POP(9).jpg.json
+2022-10-26 09:08:26,395 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_1099-COLLAGE.jpg(1).json renamed to: DSC_1099-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,392 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(2).json renamed to: EFFECTS(2).jpg.json
+2022-10-26 09:08:26,396 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_1236-COLLAGE.jpg(1).json renamed to: DSC_1236-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,397 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(20).json renamed to: EFFECTS(20).jpg.json
+2022-10-26 09:08:26,396 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC00051-COLLAGE.jpg(1).json renamed to: DSC00051-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,395 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedIMG_0236-COLLAGE.jpg(1).json renamed to: IMG_0236-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,398 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(21).json renamed to: EFFECTS(21).jpg.json
+2022-10-26 09:08:26,397 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(1).json renamed to: MOVIE(1).mp4.json
+2022-10-26 09:08:26,399 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(22).json renamed to: EFFECTS(22).jpg.json
+2022-10-26 09:08:26,399 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(10).json renamed to: MOVIE(10).mp4.json
+2022-10-26 09:08:26,401 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(11).json renamed to: MOVIE(11).mp4.json
+2022-10-26 09:08:26,401 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(12).json renamed to: MOVIE(12).mp4.json
+2022-10-26 09:08:26,401 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(13).json renamed to: MOVIE(13).mp4.json
+2022-10-26 09:08:26,402 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(23).json renamed to: EFFECTS(23).jpg.json
+2022-10-26 09:08:26,402 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(14).json renamed to: MOVIE(14).mp4.json
+2022-10-26 09:08:26,402 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(24).json renamed to: EFFECTS(24).jpg.json
+2022-10-26 09:08:26,403 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC(1).jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS(1).jpg
+2022-10-26 09:08:26,402 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(15).json renamed to: MOVIE(15).mp4.json
+2022-10-26 09:08:26,404 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(25).json renamed to: EFFECTS(25).jpg.json
+2022-10-26 09:08:26,404 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(16).json renamed to: MOVIE(16).mp4.json
+2022-10-26 09:08:26,404 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC.jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.jpg
+2022-10-26 09:08:26,405 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedIMG_4385-COLLAGE.jpg(1).json renamed to: IMG_4385-COLLAGE(1).jpg.json
+2022-10-26 09:08:26,405 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(26).json renamed to: EFFECTS(26).jpg.json
+2022-10-26 09:08:26,405 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(17).json renamed to: MOVIE(17).mp4.json
+2022-10-26 09:08:26,406 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(3).json renamed to: EFFECTS(3).jpg.json
+2022-10-26 09:08:26,406 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(18).json renamed to: MOVIE(18).mp4.json
+2022-10-26 09:08:26,407 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(4).json renamed to: EFFECTS(4).jpg.json
+2022-10-26 09:08:26,407 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(2).json renamed to: MOVIE(2).mp4.json
+2022-10-26 09:08:26,407 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(3).json renamed to: MOVIE(3).mp4.json
+2022-10-26 09:08:26,407 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.mp4
+2022-10-26 09:08:26,407 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(4).json renamed to: MOVIE(4).mp4.json
+2022-10-26 09:08:26,408 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(5).json renamed to: MOVIE(5).mp4.json
+2022-10-26 09:08:26,408 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.mp4
+2022-10-26 09:08:26,409 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(6).json renamed to: MOVIE(6).mp4.json
+2022-10-26 09:08:26,409 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.mp4
+2022-10-26 09:08:26,409 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(7).json renamed to: MOVIE(7).mp4.json
+2022-10-26 09:08:26,410 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(8).json renamed to: MOVIE(8).mp4.json
+2022-10-26 09:08:26,410 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(5).json renamed to: EFFECTS(5).jpg.json
+2022-10-26 09:08:26,410 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.mp4
+2022-10-26 09:08:26,410 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(9).json renamed to: MOVIE(9).mp4.json
+2022-10-26 09:08:26,410 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(6).json renamed to: EFFECTS(6).jpg.json
+2022-10-26 09:08:26,411 +0200 [ForkJoinPool.commonPool-worker-2] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.mp4
+2022-10-26 09:08:26,411 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(7).json renamed to: EFFECTS(7).jpg.json
+2022-10-26 09:08:26,411 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(8).json renamed to: EFFECTS(8).jpg.json
+2022-10-26 09:08:26,412 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(9).json renamed to: EFFECTS(9).jpg.json
+2022-10-26 09:08:26,424 +0200 [main] INFO  (GooglePhotosFileFixer.java:186) - Finished to fix non Standard File name!
+2022-10-26 09:08:26,424 +0200 [main] INFO  (GooglePhotosFileFixer.java:192) - Started to fix missing JSON files! 
+2022-10-26 09:08:26,429 +0200 [main] INFO  (GooglePhotosFileFixer.java:199) - Number of files found:1568
+2022-10-26 09:08:26,527 +0200 [main] INFO  (GooglePhotosFileFixer.java:216) - Finished to fix missing JSON files!
+2022-10-26 09:08:26,527 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:08:26,528 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:08:26,530 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 09:08:26,531 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 89
+2022-10-26 09:08:26,531 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 8
+2022-10-26 09:08:34,626 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:08:34,629 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:08:34,629 +0200 [main] INFO  (GooglePhotosFileFixer.java:165) - Started to fix non Standard file names!
+2022-10-26 09:08:34,645 +0200 [main] INFO  (GooglePhotosFileFixer.java:174) - Number of files found:1568
+2022-10-26 09:08:34,759 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(22).json renamed to: COLOR_POP(22).jpg.json
+2022-10-26 09:08:34,761 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(1).json renamed to: EFFECTS(1).jpg.json
+2022-10-26 09:08:34,761 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(10).json renamed to: EFFECTS(10).jpg.json
+2022-10-26 09:08:34,762 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(23).json renamed to: COLOR_POP(23).jpg.json
+2022-10-26 09:08:34,763 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(24).json renamed to: COLOR_POP(24).jpg.json
+2022-10-26 09:08:34,763 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(25).json renamed to: COLOR_POP(25).jpg.json
+2022-10-26 09:08:34,764 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(26).json renamed to: COLOR_POP(26).jpg.json
+2022-10-26 09:08:34,765 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(27).json renamed to: COLOR_POP(27).jpg.json
+2022-10-26 09:08:34,763 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(11).json renamed to: EFFECTS(11).jpg.json
+2022-10-26 09:08:34,766 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(3).json renamed to: COLOR_POP(3).jpg.json
+2022-10-26 09:08:34,765 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_0264-COLLAGE.jpg(1).json renamed to: DSC_0264-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,767 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(4).json renamed to: COLOR_POP(4).jpg.json
+2022-10-26 09:08:34,768 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(5).json renamed to: COLOR_POP(5).jpg.json
+2022-10-26 09:08:34,769 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(6).json renamed to: COLOR_POP(6).jpg.json
+2022-10-26 09:08:34,769 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(12).json renamed to: EFFECTS(12).jpg.json
+2022-10-26 09:08:34,769 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(7).json renamed to: COLOR_POP(7).jpg.json
+2022-10-26 09:08:34,770 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(13).json renamed to: EFFECTS(13).jpg.json
+2022-10-26 09:08:34,770 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_0468-COLLAGE.jpg(1).json renamed to: DSC_0468-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,770 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(8).json renamed to: COLOR_POP(8).jpg.json
+2022-10-26 09:08:34,772 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(9).json renamed to: COLOR_POP(9).jpg.json
+2022-10-26 09:08:34,772 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(14).json renamed to: EFFECTS(14).jpg.json
+2022-10-26 09:08:34,772 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(15).json renamed to: EFFECTS(15).jpg.json
+2022-10-26 09:08:34,773 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(1).json renamed to: COLOR_POP(1).jpg.json
+2022-10-26 09:08:34,773 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_0632-COLLAGE.jpg(1).json renamed to: DSC_0632-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,773 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(10).json renamed to: COLOR_POP(10).jpg.json
+2022-10-26 09:08:34,774 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC00051-COLLAGE.jpg(1).json renamed to: DSC00051-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,774 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(11).json renamed to: COLOR_POP(11).jpg.json
+2022-10-26 09:08:34,774 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(16).json renamed to: EFFECTS(16).jpg.json
+2022-10-26 09:08:34,776 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(12).json renamed to: COLOR_POP(12).jpg.json
+2022-10-26 09:08:34,776 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(17).json renamed to: EFFECTS(17).jpg.json
+2022-10-26 09:08:34,779 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(13).json renamed to: COLOR_POP(13).jpg.json
+2022-10-26 09:08:34,778 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failedIMG_0236-COLLAGE.jpg(1).json renamed to: IMG_0236-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,786 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(14).json renamed to: COLOR_POP(14).jpg.json
+2022-10-26 09:08:34,787 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(15).json renamed to: COLOR_POP(15).jpg.json
+2022-10-26 09:08:34,782 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(1).json renamed to: MOVIE(1).mp4.json
+2022-10-26 09:08:34,781 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_1099-COLLAGE.jpg(1).json renamed to: DSC_1099-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,779 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(18).json renamed to: EFFECTS(18).jpg.json
+2022-10-26 09:08:34,788 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(10).json renamed to: MOVIE(10).mp4.json
+2022-10-26 09:08:34,787 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(16).json renamed to: COLOR_POP(16).jpg.json
+2022-10-26 09:08:34,787 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failed_DSF5483-ANIMATION.gif(1).json renamed to: _DSF5483-ANIMATION(1).gif.json
+2022-10-26 09:08:34,789 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(11).json renamed to: MOVIE(11).mp4.json
+2022-10-26 09:08:34,790 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(17).json renamed to: COLOR_POP(17).jpg.json
+2022-10-26 09:08:34,789 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(19).json renamed to: EFFECTS(19).jpg.json
+2022-10-26 09:08:34,788 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedDSC_1236-COLLAGE.jpg(1).json renamed to: DSC_1236-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,791 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(2).json renamed to: EFFECTS(2).jpg.json
+2022-10-26 09:08:34,791 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(20).json renamed to: EFFECTS(20).jpg.json
+2022-10-26 09:08:34,791 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(21).json renamed to: EFFECTS(21).jpg.json
+2022-10-26 09:08:34,792 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(22).json renamed to: EFFECTS(22).jpg.json
+2022-10-26 09:08:34,793 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failed20220606_154934-COLLAGE.jpg(1).json renamed to: 20220606_154934-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,790 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(12).json renamed to: MOVIE(12).mp4.json
+2022-10-26 09:08:34,793 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(23).json renamed to: EFFECTS(23).jpg.json
+2022-10-26 09:08:34,793 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(13).json renamed to: MOVIE(13).mp4.json
+2022-10-26 09:08:34,794 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(24).json renamed to: EFFECTS(24).jpg.json
+2022-10-26 09:08:34,796 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(25).json renamed to: EFFECTS(25).jpg.json
+2022-10-26 09:08:34,797 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(26).json renamed to: EFFECTS(26).jpg.json
+2022-10-26 09:08:34,798 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(3).json renamed to: EFFECTS(3).jpg.json
+2022-10-26 09:08:34,798 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(4).json renamed to: EFFECTS(4).jpg.json
+2022-10-26 09:08:34,792 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(18).json renamed to: COLOR_POP(18).jpg.json
+2022-10-26 09:08:34,799 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(5).json renamed to: EFFECTS(5).jpg.json
+2022-10-26 09:08:34,797 +0200 [ForkJoinPool.commonPool-worker-1] ERROR (GooglePhotosFileFixer.java:148) - Rename failedIMG_4385-COLLAGE.jpg(1).json renamed to: IMG_4385-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,800 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(6).json renamed to: EFFECTS(6).jpg.json
+2022-10-26 09:08:34,794 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(14).json renamed to: MOVIE(14).mp4.json
+2022-10-26 09:08:34,802 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(15).json renamed to: MOVIE(15).mp4.json
+2022-10-26 09:08:34,800 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(7).json renamed to: EFFECTS(7).jpg.json
+2022-10-26 09:08:34,802 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(16).json renamed to: MOVIE(16).mp4.json
+2022-10-26 09:08:34,800 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(19).json renamed to: COLOR_POP(19).jpg.json
+2022-10-26 09:08:34,803 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(2).json renamed to: COLOR_POP(2).jpg.json
+2022-10-26 09:08:34,803 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(17).json renamed to: MOVIE(17).mp4.json
+2022-10-26 09:08:34,802 +0200 [ForkJoinPool.commonPool-worker-6] ERROR (GooglePhotosFileFixer.java:148) - Rename failed20220607_221441-COLLAGE.jpg(1).json renamed to: 20220607_221441-COLLAGE(1).jpg.json
+2022-10-26 09:08:34,802 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(8).json renamed to: EFFECTS(8).jpg.json
+2022-10-26 09:08:34,807 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(20).json renamed to: COLOR_POP(20).jpg.json
+2022-10-26 09:08:34,805 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(18).json renamed to: MOVIE(18).mp4.json
+2022-10-26 09:08:34,810 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(2).json renamed to: MOVIE(2).mp4.json
+2022-10-26 09:08:34,811 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(3).json renamed to: MOVIE(3).mp4.json
+2022-10-26 09:08:34,809 +0200 [ForkJoinPool.commonPool-worker-3] ERROR (GooglePhotosFileFixer.java:148) - Rename failedEFFECTS.jpg(9).json renamed to: EFFECTS(9).jpg.json
+2022-10-26 09:08:34,809 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failed03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC(1).jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS(1).jpg
+2022-10-26 09:08:34,812 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(4).json renamed to: MOVIE(4).mp4.json
+2022-10-26 09:08:34,812 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failed03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC.jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.jpg
+2022-10-26 09:08:34,810 +0200 [ForkJoinPool.commonPool-worker-7] ERROR (GooglePhotosFileFixer.java:148) - Rename failedCOLOR_POP.jpg(21).json renamed to: COLOR_POP(21).jpg.json
+2022-10-26 09:08:34,814 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.mp4
+2022-10-26 09:08:34,812 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(5).json renamed to: MOVIE(5).mp4.json
+2022-10-26 09:08:34,814 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.mp4
+2022-10-26 09:08:34,815 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(6).json renamed to: MOVIE(6).mp4.json
+2022-10-26 09:08:34,815 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.mp4
+2022-10-26 09:08:34,815 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(7).json renamed to: MOVIE(7).mp4.json
+2022-10-26 09:08:34,816 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(8).json renamed to: MOVIE(8).mp4.json
+2022-10-26 09:08:34,816 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.mp4
+2022-10-26 09:08:34,816 +0200 [ForkJoinPool.commonPool-worker-5] ERROR (GooglePhotosFileFixer.java:148) - Rename failedMOVIE.mp4(9).json renamed to: MOVIE(9).mp4.json
+2022-10-26 09:08:34,817 +0200 [main] ERROR (GooglePhotosFileFixer.java:148) - Rename failed2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.mp4
+2022-10-26 09:08:34,824 +0200 [main] INFO  (GooglePhotosFileFixer.java:186) - Finished to fix non Standard File name!
+2022-10-26 09:08:34,824 +0200 [main] INFO  (GooglePhotosFileFixer.java:192) - Started to fix missing JSON files! 
+2022-10-26 09:08:34,833 +0200 [main] INFO  (GooglePhotosFileFixer.java:199) - Number of files found:1568
+2022-10-26 09:08:34,917 +0200 [main] INFO  (GooglePhotosFileFixer.java:216) - Finished to fix missing JSON files!
+2022-10-26 09:08:34,917 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:08:34,917 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:08:34,920 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 09:08:34,920 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 89
+2022-10-26 09:08:34,920 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 8
+2022-10-26 09:09:51,631 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:09:51,634 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:09:51,634 +0200 [main] INFO  (GooglePhotosFileFixer.java:165) - Started to fix non Standard file names!
+2022-10-26 09:09:51,648 +0200 [main] INFO  (GooglePhotosFileFixer.java:174) - Number of files found:1306
+2022-10-26 09:09:51,763 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - DSC_0264-COLLAGE.jpg(1).json renamed to: DSC_0264-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,763 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - DSC_1236-COLLAGE.jpg(1).json renamed to: DSC_1236-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,767 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 03-04-2018_StefanM_Sunset Königstuhlblick-EFFE.json renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.json
+2022-10-26 09:09:51,770 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC(1).jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS(1).jpg
+2022-10-26 09:09:51,773 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 03-04-2018_StefanM_Sunset Königstuhlblick-EFFEC.jpg renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.jpg
+2022-10-26 09:09:51,773 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - DSC_0468-COLLAGE.jpg(1).json renamed to: DSC_0468-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,777 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - DSC_0632-COLLAGE.jpg(1).json renamed to: DSC_0632-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,778 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.json
+2022-10-26 09:09:51,779 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(1).json renamed to: COLOR_POP(1).jpg.json
+2022-10-26 09:09:51,781 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.mp4
+2022-10-26 09:09:51,782 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(10).json renamed to: COLOR_POP(10).jpg.json
+2022-10-26 09:09:51,782 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - DSC_1099-COLLAGE.jpg(1).json renamed to: DSC_1099-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,783 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(11).json renamed to: COLOR_POP(11).jpg.json
+2022-10-26 09:09:51,783 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.json
+2022-10-26 09:09:51,786 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(12).json renamed to: COLOR_POP(12).jpg.json
+2022-10-26 09:09:51,786 +0200 [main] INFO  (GooglePhotosFileFixer.java:146) - _DSF5483-ANIMATION.gif(1).json renamed to: _DSF5483-ANIMATION(1).gif.json
+2022-10-26 09:09:51,786 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(13).json renamed to: COLOR_POP(13).jpg.json
+2022-10-26 09:09:51,786 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.mp4
+2022-10-26 09:09:51,789 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.json
+2022-10-26 09:09:51,789 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(14).json renamed to: COLOR_POP(14).jpg.json
+2022-10-26 09:09:51,794 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.mp4
+2022-10-26 09:09:51,794 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(1).json renamed to: MOVIE(1).mp4.json
+2022-10-26 09:09:51,794 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(15).json renamed to: COLOR_POP(15).jpg.json
+2022-10-26 09:09:51,792 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:146) - IMG_4385-COLLAGE.jpg(1).json renamed to: IMG_4385-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,795 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(1).json renamed to: EFFECTS(1).jpg.json
+2022-10-26 09:09:51,797 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.json
+2022-10-26 09:09:51,797 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(10).json renamed to: MOVIE(10).mp4.json
+2022-10-26 09:09:51,798 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(16).json renamed to: COLOR_POP(16).jpg.json
+2022-10-26 09:09:51,799 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(10).json renamed to: EFFECTS(10).jpg.json
+2022-10-26 09:09:51,799 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(11).json renamed to: MOVIE(11).mp4.json
+2022-10-26 09:09:51,799 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(17).json renamed to: COLOR_POP(17).jpg.json
+2022-10-26 09:09:51,800 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.mp4
+2022-10-26 09:09:51,800 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(11).json renamed to: EFFECTS(11).jpg.json
+2022-10-26 09:09:51,801 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(18).json renamed to: COLOR_POP(18).jpg.json
+2022-10-26 09:09:51,801 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(12).json renamed to: EFFECTS(12).jpg.json
+2022-10-26 09:09:51,801 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPP.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.json
+2022-10-26 09:09:51,802 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(19).json renamed to: COLOR_POP(19).jpg.json
+2022-10-26 09:09:51,803 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(13).json renamed to: EFFECTS(13).jpg.json
+2022-10-26 09:09:51,803 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPE.mp4 renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.mp4
+2022-10-26 09:09:51,804 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(12).json renamed to: MOVIE(12).mp4.json
+2022-10-26 09:09:51,804 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(14).json renamed to: EFFECTS(14).jpg.json
+2022-10-26 09:09:51,805 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(13).json renamed to: MOVIE(13).mp4.json
+2022-10-26 09:09:51,806 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(2).json renamed to: COLOR_POP(2).jpg.json
+2022-10-26 09:09:51,806 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(15).json renamed to: EFFECTS(15).jpg.json
+2022-10-26 09:09:51,809 +0200 [main] INFO  (GooglePhotosFileFixer.java:146) - 20220606_154934-COLLAGE.jpg(1).json renamed to: 20220606_154934-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,809 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(14).json renamed to: MOVIE(14).mp4.json
+2022-10-26 09:09:51,809 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(16).json renamed to: EFFECTS(16).jpg.json
+2022-10-26 09:09:51,809 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(20).json renamed to: COLOR_POP(20).jpg.json
+2022-10-26 09:09:51,810 +0200 [main] INFO  (GooglePhotosFileFixer.java:146) - 20220607_221441-COLLAGE.jpg(1).json renamed to: 20220607_221441-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,810 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(15).json renamed to: MOVIE(15).mp4.json
+2022-10-26 09:09:51,811 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(17).json renamed to: EFFECTS(17).jpg.json
+2022-10-26 09:09:51,812 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(16).json renamed to: MOVIE(16).mp4.json
+2022-10-26 09:09:51,812 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(8).json renamed to: EFFECTS(8).jpg.json
+2022-10-26 09:09:51,812 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(21).json renamed to: COLOR_POP(21).jpg.json
+2022-10-26 09:09:51,813 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(18).json renamed to: EFFECTS(18).jpg.json
+2022-10-26 09:09:51,813 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(17).json renamed to: MOVIE(17).mp4.json
+2022-10-26 09:09:51,814 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(9).json renamed to: EFFECTS(9).jpg.json
+2022-10-26 09:09:51,814 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(22).json renamed to: COLOR_POP(22).jpg.json
+2022-10-26 09:09:51,814 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(19).json renamed to: EFFECTS(19).jpg.json
+2022-10-26 09:09:51,814 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(18).json renamed to: MOVIE(18).mp4.json
+2022-10-26 09:09:51,815 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(23).json renamed to: COLOR_POP(23).jpg.json
+2022-10-26 09:09:51,815 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(2).json renamed to: EFFECTS(2).jpg.json
+2022-10-26 09:09:51,816 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(2).json renamed to: MOVIE(2).mp4.json
+2022-10-26 09:09:51,816 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(24).json renamed to: COLOR_POP(24).jpg.json
+2022-10-26 09:09:51,818 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(20).json renamed to: EFFECTS(20).jpg.json
+2022-10-26 09:09:51,818 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(3).json renamed to: MOVIE(3).mp4.json
+2022-10-26 09:09:51,818 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(25).json renamed to: COLOR_POP(25).jpg.json
+2022-10-26 09:09:51,819 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:146) - IMG_0236-COLLAGE.jpg(1).json renamed to: IMG_0236-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,819 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(4).json renamed to: MOVIE(4).mp4.json
+2022-10-26 09:09:51,820 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(26).json renamed to: COLOR_POP(26).jpg.json
+2022-10-26 09:09:51,821 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(21).json renamed to: EFFECTS(21).jpg.json
+2022-10-26 09:09:51,821 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(5).json renamed to: MOVIE(5).mp4.json
+2022-10-26 09:09:51,821 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(27).json renamed to: COLOR_POP(27).jpg.json
+2022-10-26 09:09:51,822 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(6).json renamed to: MOVIE(6).mp4.json
+2022-10-26 09:09:51,822 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(22).json renamed to: EFFECTS(22).jpg.json
+2022-10-26 09:09:51,823 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(3).json renamed to: COLOR_POP(3).jpg.json
+2022-10-26 09:09:51,823 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(7).json renamed to: MOVIE(7).mp4.json
+2022-10-26 09:09:51,823 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(23).json renamed to: EFFECTS(23).jpg.json
+2022-10-26 09:09:51,824 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(4).json renamed to: COLOR_POP(4).jpg.json
+2022-10-26 09:09:51,824 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(8).json renamed to: MOVIE(8).mp4.json
+2022-10-26 09:09:51,824 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(24).json renamed to: EFFECTS(24).jpg.json
+2022-10-26 09:09:51,825 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(5).json renamed to: COLOR_POP(5).jpg.json
+2022-10-26 09:09:51,826 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:146) - MOVIE.mp4(9).json renamed to: MOVIE(9).mp4.json
+2022-10-26 09:09:51,826 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(25).json renamed to: EFFECTS(25).jpg.json
+2022-10-26 09:09:51,826 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(6).json renamed to: COLOR_POP(6).jpg.json
+2022-10-26 09:09:51,827 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(26).json renamed to: EFFECTS(26).jpg.json
+2022-10-26 09:09:51,827 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(7).json renamed to: COLOR_POP(7).jpg.json
+2022-10-26 09:09:51,828 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(3).json renamed to: EFFECTS(3).jpg.json
+2022-10-26 09:09:51,828 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(8).json renamed to: COLOR_POP(8).jpg.json
+2022-10-26 09:09:51,829 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(4).json renamed to: EFFECTS(4).jpg.json
+2022-10-26 09:09:51,829 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - COLOR_POP.jpg(9).json renamed to: COLOR_POP(9).jpg.json
+2022-10-26 09:09:51,830 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(5).json renamed to: EFFECTS(5).jpg.json
+2022-10-26 09:09:51,831 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(6).json renamed to: EFFECTS(6).jpg.json
+2022-10-26 09:09:51,831 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:146) - DSC00051-COLLAGE.jpg(1).json renamed to: DSC00051-COLLAGE(1).jpg.json
+2022-10-26 09:09:51,832 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:146) - EFFECTS.jpg(7).json renamed to: EFFECTS(7).jpg.json
+2022-10-26 09:09:51,836 +0200 [main] INFO  (GooglePhotosFileFixer.java:186) - Finished to fix non Standard File name!
+2022-10-26 09:09:51,836 +0200 [main] INFO  (GooglePhotosFileFixer.java:192) - Started to fix missing JSON files! 
+2022-10-26 09:09:51,845 +0200 [main] INFO  (GooglePhotosFileFixer.java:199) - Number of files found:1306
+2022-10-26 09:09:51,888 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20201025_114429-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,889 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF3816-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,891 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20201106_092548~2-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,891 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_20180330_160256-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,892 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_1169-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,893 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20201127_085930-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,895 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF4174-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,896 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20201128_161543-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,898 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_2908-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,900 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF4458-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,901 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSC_8674-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,903 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: MSW03917-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,904 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190305_134743-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,908 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20210822_184628-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,908 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF0257-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,909 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSC_8676-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,909 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_7775-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,909 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF4798-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,913 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20210822_184823-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,914 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_9707-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,918 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5132-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,918 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0049-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,918 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20211127_152418-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,919 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF0258-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,921 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190308_122010-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,922 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,924 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5133-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,925 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191223_152437-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,927 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2318-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,928 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0085-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,928 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191223_154151-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,928 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190309_172454-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,928 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF1450-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,929 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF3146-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,929 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(1).jpg.json
+2022-10-26 09:09:51,931 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: G1930888-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,932 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191226_161440-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,932 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2321-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,932 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(10).jpg.json
+2022-10-26 09:09:51,933 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF3494-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,934 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF6871-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,935 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190309_172926-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,936 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(11).jpg.json
+2022-10-26 09:09:51,936 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2329-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,936 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0112-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,937 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191228_120125-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,937 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF3734-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,938 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: DSCF6890-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,938 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(12).jpg.json
+2022-10-26 09:09:51,940 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190309_172932-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,940 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2332-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,941 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191229_143359-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,941 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0156-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,941 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(13).jpg.json
+2022-10-26 09:09:51,941 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2758-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,944 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(14).jpg.json
+2022-10-26 09:09:51,944 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200102_131111-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,944 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2410-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,949 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1408-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,951 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(15).jpg.json
+2022-10-26 09:09:51,951 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5807-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,952 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2461-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,952 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200407_181031-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,955 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0261-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,957 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(16).jpg.json
+2022-10-26 09:09:51,957 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1416-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,957 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2099-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,957 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200627_212251-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,957 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5814-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,956 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190315_125802-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,961 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(17).jpg.json
+2022-10-26 09:09:51,961 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2155-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,961 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5820-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,962 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1428-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,962 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200817_185847-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,962 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0097-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,963 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(18).jpg.json
+2022-10-26 09:09:51,966 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5840-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,966 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20200927_183350-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,968 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2169-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,968 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1430-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,969 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(19).jpg.json
+2022-10-26 09:09:51,970 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5866-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,971 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190407_122207-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,971 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2552-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,971 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0100-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,972 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1495-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,972 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2310-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,973 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(2).jpg.json
+2022-10-26 09:09:51,975 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6000-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,977 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2636-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,978 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1505-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,978 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(20).jpg.json
+2022-10-26 09:09:51,979 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5543-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,980 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: COLOR_POP-edited.jpg.json
+2022-10-26 09:09:51,980 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6027-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,980 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190518_164035-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,981 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(21).jpg.json
+2022-10-26 09:09:51,982 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2640-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,983 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5549-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,985 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(22).jpg.json
+2022-10-26 09:09:51,985 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0519-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,985 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6519-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,985 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1801-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,987 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2744-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,987 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5160-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,989 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1821-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,989 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(23).jpg.json
+2022-10-26 09:09:51,990 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2750-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,990 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6597-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,991 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190530_074957-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,993 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(24).jpg.json
+2022-10-26 09:09:51,993 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5239-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,993 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF6943-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,994 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1822-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,994 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2756-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,995 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0522-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,996 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5409-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,997 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2038-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,997 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20220103_155405-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,997 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(25).jpg.json
+2022-10-26 09:09:51,997 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2468-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,998 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0998-EFFECTS-edited.jpg.json
+2022-10-26 09:09:51,999 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5410-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,000 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190616_140128-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,001 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20180811_103112-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,001 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:156) - Json file created: IMG_0615-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,001 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2480-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,002 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(26).jpg.json
+2022-10-26 09:09:52,002 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF5454-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,004 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1008-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,005 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(3).jpg.json
+2022-10-26 09:09:52,006 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2517-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,006 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.json renamed to: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS.jpg.json
+2022-10-26 09:09:52,006 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0363-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,008 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190616_161303-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,008 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1041-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,008 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(4).jpg.json
+2022-10-26 09:09:52,009 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2526-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,009 +0200 [ForkJoinPool.commonPool-worker-3] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20220818_185411-COLLAGE-edited.jpg.json
+2022-10-26 09:09:52,010 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0453-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,010 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190112_134803-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,011 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0642-SNIPPET.mp4.json
+2022-10-26 09:09:52,011 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1139-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,012 +0200 [ForkJoinPool.commonPool-worker-2] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF2550-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,012 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(5).jpg.json
+2022-10-26 09:09:52,013 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0643-SNIPPET.mp4.json
+2022-10-26 09:09:52,014 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190112_134918-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,014 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF0703-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,014 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(6).jpg.json
+2022-10-26 09:09:52,015 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1189-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,015 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0644-SNIPPET.mp4.json
+2022-10-26 09:09:52,015 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190617_122024-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,017 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0673-SNIPPET.mp4.json
+2022-10-26 09:09:52,017 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190129_171213-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,017 +0200 [main] INFO  (GooglePhotosFileFixer.java:156) - Json file created: _DSF1388-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,017 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(7).jpg.json
+2022-10-26 09:09:52,022 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.json renamed to: 2013_Confraternizacao_casa_Mika_DSC_0723-SNIPPET.mp4.json
+2022-10-26 09:09:52,022 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190129_171219-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,022 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(8).jpg.json
+2022-10-26 09:09:52,023 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190617_135205-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,024 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:146) - 2013_Semana_da_Eri_em_Pilar_DSC_0711-ANIMATION.json renamed to: 2013_Semana_da_Eri_em_Pilar_DSC_0711-ANIMATION.gif.json
+2022-10-26 09:09:52,025 +0200 [ForkJoinPool.commonPool-worker-5] INFO  (GooglePhotosFileFixer.java:156) - Json file created: EFFECTS-edited(9).jpg.json
+2022-10-26 09:09:52,025 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190129_171228-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,026 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190617_140154-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,027 +0200 [ForkJoinPool.commonPool-worker-6] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190203_125533-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,029 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190627_201857-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,032 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190706_152844-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,035 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190720_181734-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,038 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190720_181755-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,040 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190726_184931-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,043 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20190731_201438-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,046 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:156) - Json file created: 20191106_163620-EFFECTS-edited.jpg.json
+2022-10-26 09:09:52,046 +0200 [main] INFO  (GooglePhotosFileFixer.java:216) - Finished to fix missing JSON files!
+2022-10-26 09:09:52,048 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:09:52,048 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:09:52,051 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 166
+2022-10-26 09:09:52,051 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 102
+2022-10-26 09:09:52,052 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 1
+2022-10-26 09:34:40,553 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:34:40,558 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:34:40,558 +0200 [main] INFO  (GooglePhotosFileFixer.java:165) - Started to fix non Standard file names!
+2022-10-26 09:34:40,577 +0200 [main] INFO  (GooglePhotosFileFixer.java:174) - Number of files found:1472
+2022-10-26 09:34:40,804 +0200 [main] INFO  (GooglePhotosFileFixer.java:186) - Finished to fix non Standard File name!
+2022-10-26 09:34:40,804 +0200 [main] INFO  (GooglePhotosFileFixer.java:192) - Started to fix missing JSON files! 
+2022-10-26 09:34:40,811 +0200 [main] INFO  (GooglePhotosFileFixer.java:199) - Number of files found:1472
+2022-10-26 09:37:23,214 +0200 [main] INFO  (GooglePhotosFileFixer.java:216) - Finished to fix missing JSON files!
+2022-10-26 09:37:23,215 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:37:23,215 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:37:23,217 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 09:37:23,217 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 0
+2022-10-26 09:37:23,217 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 1
+2022-10-26 09:37:23,758 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:37:23,761 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:37:23,761 +0200 [main] INFO  (GooglePhotosFileFixer.java:166) - Started to fix non Standard file names!
+2022-10-26 09:37:23,776 +0200 [main] INFO  (GooglePhotosFileFixer.java:175) - Number of files found:1472
+2022-10-26 09:37:23,948 +0200 [main] INFO  (GooglePhotosFileFixer.java:187) - Finished to fix non Standard File name!
+2022-10-26 09:37:23,949 +0200 [main] INFO  (GooglePhotosFileFixer.java:193) - Started to fix missing JSON files! 
+2022-10-26 09:37:23,956 +0200 [main] INFO  (GooglePhotosFileFixer.java:200) - Number of files found:1472
+2022-10-26 09:37:24,026 +0200 [ForkJoinPool.commonPool-worker-4] INFO  (GooglePhotosFileFixer.java:105) - No json file found for the file: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS(1).jpg
+2022-10-26 09:37:24,049 +0200 [main] INFO  (GooglePhotosFileFixer.java:217) - Finished to fix missing JSON files!
+2022-10-26 09:37:24,049 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:37:24,049 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:37:24,052 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 09:37:24,053 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 0
+2022-10-26 09:37:24,053 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 1
+2022-10-26 09:38:38,759 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:38:38,762 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:38:38,762 +0200 [main] INFO  (GooglePhotosFileFixer.java:166) - Started to fix non Standard file names!
+2022-10-26 09:38:38,780 +0200 [main] INFO  (GooglePhotosFileFixer.java:175) - Number of files found:1472
+2022-10-26 09:38:38,965 +0200 [main] INFO  (GooglePhotosFileFixer.java:187) - Finished to fix non Standard File name!
+2022-10-26 09:38:38,965 +0200 [main] INFO  (GooglePhotosFileFixer.java:193) - Started to fix missing JSON files! 
+2022-10-26 09:38:38,971 +0200 [main] INFO  (GooglePhotosFileFixer.java:200) - Number of files found:1472
+2022-10-26 09:38:39,049 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:105) - No json file found for the file: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS(1).jpg
+2022-10-26 09:38:39,059 +0200 [main] INFO  (GooglePhotosFileFixer.java:217) - Finished to fix missing JSON files!
+2022-10-26 09:38:39,059 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:38:39,059 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:38:39,061 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 09:38:39,062 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 0
+2022-10-26 09:38:39,062 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 1
+2022-10-26 09:39:10,258 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:39:10,262 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:39:10,262 +0200 [main] INFO  (GooglePhotosFileFixer.java:166) - Started to fix non Standard file names!
+2022-10-26 09:39:10,278 +0200 [main] INFO  (GooglePhotosFileFixer.java:175) - Number of files found:1472
+2022-10-26 09:39:10,446 +0200 [main] INFO  (GooglePhotosFileFixer.java:187) - Finished to fix non Standard File name!
+2022-10-26 09:39:10,447 +0200 [main] INFO  (GooglePhotosFileFixer.java:193) - Started to fix missing JSON files! 
+2022-10-26 09:39:10,458 +0200 [main] INFO  (GooglePhotosFileFixer.java:200) - Number of files found:1472
+2022-10-26 09:39:10,531 +0200 [ForkJoinPool.commonPool-worker-1] INFO  (GooglePhotosFileFixer.java:105) - No json file found for the file: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS(1).jpg
+2022-10-26 09:39:10,548 +0200 [main] INFO  (GooglePhotosFileFixer.java:217) - Finished to fix missing JSON files!
+2022-10-26 09:39:10,548 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:39:10,548 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:39:10,550 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 09:39:10,550 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 0
+2022-10-26 09:39:10,551 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 1
+2022-10-26 09:39:35,555 +0200 [main] INFO  (GooglePhotosFileFixer.java:48) - Processing started!
+2022-10-26 09:39:35,557 +0200 [main] INFO  (GooglePhotosFileFixer.java:49) - Started to process the path: C:\\Users\\febeil\\Downloads\\collages\\Takeout
+2022-10-26 09:39:35,557 +0200 [main] INFO  (GooglePhotosFileFixer.java:166) - Started to fix non Standard file names!
+2022-10-26 09:39:35,574 +0200 [main] INFO  (GooglePhotosFileFixer.java:175) - Number of files found:1472
+2022-10-26 09:39:35,741 +0200 [main] INFO  (GooglePhotosFileFixer.java:187) - Finished to fix non Standard File name!
+2022-10-26 09:39:35,742 +0200 [main] INFO  (GooglePhotosFileFixer.java:193) - Started to fix missing JSON files! 
+2022-10-26 09:39:35,748 +0200 [main] INFO  (GooglePhotosFileFixer.java:200) - Number of files found:1472
+2022-10-26 09:39:35,842 +0200 [ForkJoinPool.commonPool-worker-7] INFO  (GooglePhotosFileFixer.java:105) - No json file found for the file: 03-04-2018_StefanM_Sunset Königstuhlblick-EFFECTS(1).jpg
+2022-10-26 09:39:35,853 +0200 [main] INFO  (GooglePhotosFileFixer.java:217) - Finished to fix missing JSON files!
+2022-10-26 09:39:35,853 +0200 [main] INFO  (GooglePhotosFileFixer.java:55) - Processing finished!
+2022-10-26 09:39:35,853 +0200 [main] INFO  (GooglePhotosFileFixer.java:56) - Processing statistics
+2022-10-26 09:39:35,856 +0200 [main] INFO  (GooglePhotosFileFixer.java:57) - JSON Files created: 0
+2022-10-26 09:39:35,856 +0200 [main] INFO  (GooglePhotosFileFixer.java:58) - Renamed JSON files: 0
+2022-10-26 09:39:35,856 +0200 [main] INFO  (GooglePhotosFileFixer.java:59) - JSON Files not found: 1
